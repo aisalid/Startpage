@@ -1,13 +1,13 @@
 body {
-    background-color: #faeae8;
+    background-color: #ece6c2;
 }
 
 .search {
-    border: 2px solid #3f4859;
+    border: 2px solid #000000;
     border-radius: 50px;
     text-decoration: none;
     outline: none;
-    background-color: #1b1f27;
+    background-color: #ffffff;
     color: white;
     font-family: Iosevka Web;
     font-weight: bold;
